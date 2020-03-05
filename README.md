@@ -1,0 +1,2 @@
+# Defytrading
+Amateur data analysis
